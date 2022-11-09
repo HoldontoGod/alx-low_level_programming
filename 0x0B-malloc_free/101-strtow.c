@@ -60,4 +60,3 @@ char **strtow(char *str)
 		aout[i][j] = '\0';
 		return (aout);
 	}
-}
