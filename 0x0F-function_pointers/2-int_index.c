@@ -27,5 +27,5 @@ if (cmp(array[i]))
 return (i);
 }
 }
-return (-i);
+return (-1);
 }
