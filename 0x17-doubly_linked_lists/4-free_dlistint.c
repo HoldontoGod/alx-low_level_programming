@@ -1,4 +1,4 @@
-4-free_dlistint.c
+#include "lists.h"
 
 /**
  * free_dlistint - Frees a linked dlistint_t list.
